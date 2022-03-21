@@ -7,6 +7,7 @@ public class First {
 		System.Console.WriteLine(bobj.sub(2233));
 		
 		*/
+		
 		System.Console.WriteLine(Add.add(22,99));
 		//Dim user as new Demo();// ob=new Demo();
 		//S//ystem.Console.WriteLine(user.sub(22,22));
